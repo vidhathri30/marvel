@@ -1,0 +1,23 @@
+body {
+    background-color: #f2d8efb0;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(66, 46, 46);
+    border-width: 5px;
+    width: 10%;
+}
+
+
+.circular{
+    border-radius: 100%;
+}
+.insta{
+    height: 40px;
+    width: 40px;
+}
+h2{
+    color: rgb(128, 0, 45);
+}
